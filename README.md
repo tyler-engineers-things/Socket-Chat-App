@@ -1,0 +1,1 @@
+This chat app was developed for CS 3251, Computer Networking, at the Georgia Institute of Technology. The goal of the project was to develop client and server programs to facilitate communication between multiple separate users. The project was developed in python, using socket and multithreading APIs.
